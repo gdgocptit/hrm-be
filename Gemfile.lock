@@ -178,7 +178,7 @@ GEM
     parser (3.3.5.0)
       ast (~> 2.4.1)
       racc
-    pg (1.5.8)
+    pg (1.5.9)
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
@@ -384,7 +384,7 @@ DEPENDENCIES
   jbuilder
   ostruct (~> 0.6.0)
   paranoia (~> 3.0)
-  pg (~> 1.5.8)
+  pg (~> 1.5.9)
   pry-byebug (~> 3.10)
   pry-rails (~> 0.3.11)
   pry-stack_explorer (~> 0.6.1)
