@@ -78,6 +78,6 @@ gem "rspec-rails", "~> 7.0", groups: [ :test, :development ]
 
 gem "database_cleaner", "~> 2.0", group: :test
 
-gem "rubocop-rspec", "~> 3.1", groups: [ :test, :development ]
+gem "rubocop-rspec", "~> 3.3", groups: [ :test, :development ]
 
 gem "redis-rails", "~> 5.0"
